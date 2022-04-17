@@ -27,5 +27,6 @@
   transform: scale(1.08);
 }
 .row {
+  color: white;
   margin-left: 20px;
 }
